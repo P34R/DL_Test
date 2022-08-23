@@ -5,7 +5,7 @@ The original first line looked like this:
 `907;1909; 1929;1790.87;00:50:00;20:00:00`  
 Here you can see the "extra" space before the number 1929.I removed it manually.  
 The last line looked like this:
-`9101;1902;1921;160.56;05:15:00;20:50:00}`
+`9101;1902;1921;160.56;05:15:00;20:50:00}`  
 Here you can see the symbol "}" at the end of the line. I also deleted it manually.
 
 In the task, it was required to find the best travel options for all stations according to price and time.  
